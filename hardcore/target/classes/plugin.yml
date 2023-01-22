@@ -1,0 +1,5 @@
+name: Hardcore
+version: '1.0-SNAPSHOT'
+main: jack.hardcore.Hardcore
+api-version: 1.19
+description: A project for my hardcore series

@@ -1,0 +1,5 @@
+name: Hardcore
+version: '${project.version}'
+main: jack.hardcore.Hardcore
+api-version: 1.19
+description: A project for my hardcore series
